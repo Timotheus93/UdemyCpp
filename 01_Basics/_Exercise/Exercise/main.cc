@@ -4,8 +4,8 @@
 
 int main()
 {
-    int I = 7;
-    int J = 4;
+    int I = 3;
+    int J = 5;
 
     mod_cross_sum(I, J);
 
