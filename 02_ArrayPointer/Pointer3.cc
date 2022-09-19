@@ -3,7 +3,7 @@
 int main()
 {
     // Heap allocation
-    int *p_zahl = new int{4};
+    auto *p_zahl = new int{4};
 
     // Heap de-allocation
     delete p_zahl;
